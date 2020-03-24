@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25483838711",
+    "firebase_url": "https://lambelambe-406e2.firebaseio.com",
+    "project_id": "lambelambe-406e2",
+    "storage_bucket": "lambelambe-406e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25483838711:android:45930c69c1e2a3a96e7ff2",
+        "android_client_info": {
+          "package_name": "com.lambe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25483838711-kcq2g9f8lio0tk1fid88bntgig5urq05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXBZCm-1I55OVVJmZxSU6Y5VVJI_dLcKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25483838711-kcq2g9f8lio0tk1fid88bntgig5urq05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

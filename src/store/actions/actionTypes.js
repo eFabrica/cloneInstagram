@@ -1,0 +1,15 @@
+
+// USER
+export const USER_LOGGED_IN = 'USER_LOGGED_IN'
+export const USER_LOGGED_OUT = 'USER_LOGGED_OUT'
+export const CREATING_USER = 'CREATING_USER'
+export const USER_CREATED = 'USER_CREATED'
+export const USER_FAILED = 'USER_FAILED'
+
+// POST
+export const ADD_COMMENT = 'ADD_COMMENT'
+export const SET_POSTS = 'SET_POSTS'
+export const CREATING_POST = 'CREATING_POST'
+export const POST_CREATED = 'POST_CREATED'
+export const POST_FAILED = 'POST_FAILED'
+
